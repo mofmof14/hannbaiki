@@ -8,4 +8,4 @@ public class JuiceModel : ScriptableObject
     public int price;
     public Sprite sprite;
 }
-
+//testcoment
